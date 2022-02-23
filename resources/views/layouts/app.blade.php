@@ -7,8 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Gerenciador de Posts </title>
   <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"> -->
-  <link rel="stylesheet" href="{{asset('css/app.css')}}">
-  <!-- <link rel="stylesheet" href="/public/css/app.css"> -->
+  <!-- <link rel="stylesheet" href="{{asset('css/app.css')}}"> -->
+  <link rel="stylesheet" href="/public/css/app.css">
 </head>
 
 <body>
@@ -68,8 +68,8 @@
   </div>
  
 
-  <!-- <script src="/public/js/app.js"></script> -->
-  <script src="{{asset('js/app.js')}}"></script>
+  <script src="/public/js/app.js"></script>
+  <!-- <script src="{{asset('js/app.js')}}"></script> -->
   <!-- <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script> -->
 
 
