@@ -20,7 +20,7 @@
 </form>
 
 <a class="dropdown-item" href="{{ route('profile.index') }}">
-  Profile
+  Profile - git
 </a>
 </div>
 </body>
